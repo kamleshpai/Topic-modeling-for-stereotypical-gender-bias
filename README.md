@@ -8,7 +8,7 @@ Python
 
 Dataset
 
-The Corpus of Contemporary American English (COCA) - the only large, genre-balanced corpus of American English
+The Corpus of Contemporary American English (COCA) - the only large, genre-balanced corpus of American English (https://www.english-corpora.org/coca/)
 
 Case study:'Case Study.xlsx' includes couple of cases regarding male and female names and displays the top 10 words from the topic 3 topics of those words
 
